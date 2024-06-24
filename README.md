@@ -1,1 +1,2 @@
 # daily-coding-problem
+This repository contains my answers to Dailing Coding Problem questions. The repository will be organised by files which containa a date. In these files will be the question and my answers along with a couple of text cases. The laguage will vary between Python and Javascript.
