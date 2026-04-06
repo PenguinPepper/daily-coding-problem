@@ -1,1 +1,3 @@
-export function nJumps{}
+export function nJumps(n) {
+  ... n
+}
